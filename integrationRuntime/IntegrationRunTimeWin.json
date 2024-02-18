@@ -1,0 +1,6 @@
+{
+	"name": "IntegrationRunTimeWin",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

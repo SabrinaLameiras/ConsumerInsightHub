@@ -1,0 +1,14 @@
+{
+	"name": "ADFProjPipelineETL",
+	"properties": {
+		"globalConfigurations": {
+			"PipelineBillingEnabled": "true"
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "beb9a9be-3830-440e-b36b-d705cc2f20bf",
+		"tenantId": "e903f97d-12ce-4697-94ca-6e6d2a94c961"
+	}
+}
